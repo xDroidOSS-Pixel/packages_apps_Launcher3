@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 crDroid Android Project
+                   2023 xdroidOSS-Pixel Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Application name -->
+    <string name="xdroid_app_name" translatable="false">xdroidOSS Launcher</string>
+
+</resources>
