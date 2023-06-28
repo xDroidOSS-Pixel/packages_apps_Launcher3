@@ -9,7 +9,7 @@
     <string name="xdroid_app_name" translatable="false">xdroidOSS Launcher</string>
 
     <!-- General -->
-    <string name="settings_title">xdroidOSS settings</string>
+    <string name="settings_title">Home settings</string>
 
     <!-- Categories -->
     <string name="home_category_title">Home screen</string>
